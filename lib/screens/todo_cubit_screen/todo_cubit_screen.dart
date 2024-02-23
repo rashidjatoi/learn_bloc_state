@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:learn_bloc_state/cubit/todo_cubit.dart';
+import 'package:learn_bloc_state/cubit/todo_cubit/todo_cubit.dart';
 import 'package:learn_bloc_state/models/todo_model.dart';
 
 class TodoCubitScreen extends StatelessWidget {
