@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:learn_bloc_state/cubit/counter_cubit.dart';
+import 'package:learn_bloc_state/cubit/cubit_counter/counter_cubit.dart';
 
 class IncDecScreen extends StatelessWidget {
   const IncDecScreen({super.key});
