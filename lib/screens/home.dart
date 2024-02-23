@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:learn_bloc_state/screens/bloc_screen/counter_bloc_screen.dart';
-import 'package:learn_bloc_state/screens/cubit_screens/counter_cubit_screen.dart';
+import 'package:learn_bloc_state/screens/counter_bloc_screen/counter_bloc_screen.dart';
+import 'package:learn_bloc_state/screens/counter_cubit_screens/counter_cubit_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
